@@ -1,6 +1,3 @@
-Elbette reisim, doğrudan kopyalayıp GitHub reposundaki `README.md` dosyana yapıştırabileceğin, kod blokları ve vurguları ayarlanmış Markdown formatı aşağıdadır. Sağ üstteki "Copy code" (Kodu kopyala) butonuna basarak direkt alabilirsin:
-
-```markdown
 # Lab 3: IPv6 Adresleme, Yönlendirme ve Gelişmiş Subnetting (VLSM)
 
 Bu laboratuvar, Cisco Packet Tracer kullanılarak gerçekleştirilmiş olup, IPv4 ve IPv6 adresleme mantığını, ağları daha verimli kullanmak için alt ağlara bölme (Subnetting) işlemlerini ve temel yönlendirme (Routing) yapılandırmalarını kapsamaktadır.
@@ -23,5 +20,3 @@ Bu laboratuvar, Cisco Packet Tracer kullanılarak gerçekleştirilmiş olup, IPv
 
 * **`Packet_tr_3.pdf`**: IPv6 adresleme kuralları, EUI-64 mantığı, Subnetting matematiksel işlemleri ve VLSM uygulamalarının detaylı teorik analiz dokümanı.
 * **`Packet_tr_3.pkt`**: Packet Tracer simülasyon ve uygulamalı topoloji dosyası.
-
-```
